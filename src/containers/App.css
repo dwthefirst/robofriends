@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Bitline Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Bitline Regular'), url('BitlineRegular-axoMx.woff') format('woff');
+    }
+
+h1 {
+    font-family: 'Bitline Regular';
+    font-weight: 500;
+    color: rgba(40, 5, 0, 0.706);
+}
